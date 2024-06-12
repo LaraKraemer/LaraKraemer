@@ -23,23 +23,22 @@ def aboutME():
   I am a former people manager and tech recruiter 
   who recently switched careers to become a software engineer. 
   My interest in software engineering began while working as a tech 
-  recruiter. 
-  
-  In January 2024, I began exploring programming again. The book 
-  "A Smarter Way to Learn Python" captivated me, and I started coding 
-  after work. By the end of March, I left my previous role.
+  recruiter. However, only in January 2024, I began exploring programming
+  for real. The book "A Smarter Way to Learn Python" captivated me, and
+  I started coding after work every day. By the end of March, I left my previous role.
   
   Now, I've been programming full-time for several months. I started with 
   HTML and CSS classes from freeCodeCamp and The Odin Project, and have since
   focused on an extensive Python course on Udemy. I'm also working on
-  an IOT project. I've built a sourdough starter monitor with an ESP32 and
+  an IOT project. I am building a sourdough starter spy with an ESP32 and
   some funky sensors in MicroPython. Check out my repo. I love geeking out
-  about my code and doing what I enjoy. 
+  about my code and getting my hands dirty.
   
-  Finally, after years of receiving coding lesson invites, I attended 
-  my first Codebar event in March and have been a regular attendee since. I've
-  also attended the Django Girl one-day workshop in April. I am grateful for the 
-  supportive community I've joined.
+  After years of receiving coding lesson invites, I attended my first Codebar
+  event in March and have been a regular attendee since. I've also attended
+  the Django Girl one-day workshop in April. I am grateful for the 
+  supportive community I've joined. In June, I have the honor to attend the
+  Developer Conference "Merge" and in July volunteer at WeAreDevelopers.
   
   ‘Not knowing when the Dawn will come, I open every Door’ by Emily Dickinson
 
