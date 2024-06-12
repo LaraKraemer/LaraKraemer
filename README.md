@@ -15,32 +15,31 @@
 def aboutME():
   name = "Lara Krämer"
   homebase = "Berlin, Germany"
-  currentJob =  "Software Engineer Student"
-  currentSchool = "Udemy"
-  yearsInWorforce = "+ 5 years in Tech companies"
+  currentJob =  "Software Engineer in training"
+  yearsInWorkforce = "+ 5 years in Tech companies"
   formerEducation = "Bachelor of B.A."
   myStory = """ 
   
   I am a former people manager and tech recruiter 
   who recently switched careers to become a software engineer. 
-  My interest in software engineering began during my time as a tech 
-  recruiter when I also signed up for coding lesson invites from codebar.io. 
-  However, I didn't attend any due to my lack of confidence at the time.
+  My interest in software engineering began while working as a tech 
+  recruiter. 
   
   In January 2024, I began exploring programming again. The book 
   "A Smarter Way to Learn Python" captivated me, and I started coding 
   after work. By the end of March, I left my previous role.
   
-  Now, a few months later, I've been programming full-time. I started with 
-  HTML and CSS classes from freeCodeCamp and The Odin Project, then focused 
-  on a Python Backend course on Udemy. I'm also working an IOT project for fun. 
-  A ESP32 sourdough starter with some funky sensor in MicroPython. Check out my repo 
-  to read more about it. I love geeking out about my code and following doing
-  what I enjoy. 
+  Now, I've been programming full-time for several months. I started with 
+  HTML and CSS classes from freeCodeCamp and The Odin Project, and have since
+  focused on an extensive Python course on Udemy. I'm also working on
+  an IOT project. I've built a sourdough starter monitor with an ESP32 and
+  some funky sensors in MicroPython. Check out my repo. I love geeking out
+  about my code and doing what I enjoy. 
   
-  And finally, after years of receiving those coding lessons invites, I attended 
-  my first event in March and have been a regular attendee since, grateful for the 
-  supportive community I've joined. 
+  Finally, after years of receiving coding lesson invites, I attended 
+  my first Codebar event in March and have been a regular attendee since. I've
+  also attended the Django Girl one-day workshop in April. I am grateful for the 
+  supportive community I've joined.
   
   ‘Not knowing when the Dawn will come, I open every Door’ by Emily Dickinson
 
@@ -56,7 +55,7 @@ if __name__ == "__main__":
 
 ```
 
-<h2 align="center"> Tools </h2> 
+<h2 align="center"> Technology | Tools </h2> 
 <p align="center">
 <a><img height="60" src="images/python-programming-language-icon.png" </a>
 <a><img height="60" src="images/django-icon.png" </a>
