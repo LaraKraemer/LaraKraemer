@@ -12,7 +12,7 @@
 
 
 ```python
-def aboutME():
+def aboutMe():
   name = "Lara Krämer"
   homebase = "Berlin, Germany"
   currentJob =  "Software Engineer in training"
@@ -49,12 +49,12 @@ goals2024 = ["Land a job, Create 20+ projects and learn at least 4 new Technolog
 hobbies = ["Hiking", "Camping", "Bouldering", "Horse riding"]
 
 if __name__ == "__main__":
-    aboutMe(openToWork),
+    aboutMe(),
     print("Open to, work!")
 
 ```
 
-<h2 align="center"> Technology | Tools </h2> 
+<h2 align="center">  </h2> 
 <p align="center">
 <a><img height="60" src="images/python-programming-language-icon.png" </a>
 <a><img height="60" src="images/django-icon.png" </a>
