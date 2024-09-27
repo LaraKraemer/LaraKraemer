@@ -26,8 +26,8 @@ def aboutMe():
   ‘Not knowing when the Dawn will come, I open every Door’ by Emily Dickinson'
 
   currentlyStudying = ["Python", "C", "JavaScript"]
-  goals2024 = ["Complete CS50 Web Programming with Python and Javascript", "Land a job", "Learn another new technology"]
-  achievements2024 = [ "Completed 42 Berlin Piscine", "Completed Python Web Development Course", "Conceptualised and built a Microcontroller", "Developed my own landing page and blog"]
+  goals2024 = ["CS50 Web Programming with Python and Javascript", "Land a job", "Learn new technology"]
+  achievements2024 = [ "42 Berlin Piscine", "Python Web Development Course", "Microcontroller", "Landing page and blog"]
   hobbies = ["Hiking", "Camping", "Bouldering"]
 
 if __name__ == "__main__":
