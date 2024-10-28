@@ -43,4 +43,4 @@ if __name__ == "__main__":
 
 <br>
 <p align="center">
-<a><img height="60" src="https://holopin.me/larakraemer"</a>
+<a><img src="https://holopin.me/larakraemer"</a>
