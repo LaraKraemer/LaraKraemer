@@ -40,3 +40,7 @@ if __name__ == "__main__":
 <a><img height="60" src="images/visual-studio-code-icon.png"</a>
 <a><img height="60" src="images/mysql-icon.png" </a>
 <a><img height="60" src="images/bootstrap-5-logo-icon.png" </a>
+
+<br>
+<p align="center">
+<a><img height="60" src="https://holopin.me/larakraemer"</a>
