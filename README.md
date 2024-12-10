@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&color=gradient&text=Hello%20there!%20%20I'm%20Lara&textBg=true&section=header&fontSize=50">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&color=gradient&text=Hello%20there!%20%20&textBg=true&section=header&fontSize=50">
 </p>
 
 
@@ -7,7 +7,7 @@
 def aboutMe():
   name = "Lara"
   homebase = "Berlin, Germany"
-  currentJob =  "Software Engineer Student at 42 Berlin"
+  currentJob =  "Computer Science Student at 42 Berlin"
   yearsInWorkforce = "+ 5 years in Tech companies"
   formerEducation = "Bachelor of B.A."
   myStory = """ 
