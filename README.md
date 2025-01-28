@@ -11,20 +11,18 @@ def aboutMe():
   yearsInWorkforce = "+ 5 years in Tech companies"
   formerEducation = "Bachelor of B.A."
   myStory = """ 
-  
-  I am Lara, a programmer with a background in people management and recruitment,
+  I am Lara, a programmer and student with a background in people management and recruitment,
   currently studying web development, OOP, databases, API integration, and exploring microcontrollers.
 
-  ‘Not knowing when the Dawn will come, I open every Door’ by Emily Dickinson'
+  ‘Not knowing when the Dawn will come, I open every Door’ by Emily Dickinson' """
 
-  currentlyStudying = ["Python", "C", "JavaScript"]
-  goals2024 = ["CS50 Web Programming with Python and Javascript", "Study C"]
-  achievements2024 = [ "42 Berlin Piscine", "Python Web Development Course", "Microcontroller", "Landing page and blog"]
+  currentlyStudying = ["Python", "Django", "C", "JavaScript"]
+  goals2025 = ["CS50 Web Programming with Python and Javascript", "Study C / C++", "Build a hexapod"]
   hobbies = ["Hiking", "Camping", "Bouldering"]
 
 if __name__ == "__main__":
     aboutMe(),
-    print("Open to, work!")
+    print("Open to, part-time work!")
 
 ```
 
