@@ -7,17 +7,16 @@
 def aboutMe():
   name = "Lara"
   homebase = "Berlin, Germany"
-  currentJob =  "Computer Science Student at 42 Berlin"
+  currentJob =  "Software Engineering Student at 42 Berlin"
   yearsInWorkforce = "+ 5 years in Tech companies"
   formerEducation = "Bachelor of B.A."
   myStory = """ 
-  I am Lara, a programmer and student with a background in people management and recruitment,
-  currently studying web development, OOP, databases, API integration, and exploring microcontrollers.
+  Programmer and software engineering student. Besides my studies, I am learning automation testing, web development, OOP, databases,
+  API integration, and playing around with microcontrollers. My background is in people management and recruitment.
 
   ‘Not knowing when the Dawn will come, I open every Door’ by Emily Dickinson' """
 
-  currentlyStudying = ["Python", "Django", "C", "JavaScript"]
-  goals2025 = ["CS50 Web Programming with Python and Javascript", "Study C / C++", "Build a hexapod"]
+  currentlyStudying = ["Python", "Django", "C"]
   hobbies = ["Hiking", "Camping", "Bouldering"]
 
 if __name__ == "__main__":
