@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&color=gradient&text=Hello%20there!%20%20&textBg=true&section=header&fontSize=50">
-</p>
 
 
 ```python
