@@ -5,11 +5,11 @@ def about_me():
   name = "Lara"
   homebase = "Berlin, Germany"
   current_role =  "Software Engineering Student"
-  years_in_qorkforce = "+ 5 years in Tech companies"
+  years_in_workforce = "+ 5 years in Tech companies"
   former_education = "Bachelor of B.A."
   my_story = """ 
   Software engineering student and co-organiser of the DjangoUserGroup Berlin. I'm excited about Python, Django projects, and anything around test automation.
-  I want to become good at breaking software to make it safer, robust, and efficient for the business and the user.
+  I want to become skilled at breaking software to make it safer, more robust, and more efficient for both the business and the user.
   My background in people management has provided me with valuable experience in problem-solving and business strategy. 
 
   I'm documenting parts of my developer journey on my blog.
