@@ -4,23 +4,24 @@
 
 
 ```python
-def aboutMe():
+def about_me():
   name = "Lara"
   homebase = "Berlin, Germany"
-  currentJob =  "Software Engineering Student at 42 Berlin"
-  yearsInWorkforce = "+ 5 years in Tech companies"
-  formerEducation = "Bachelor of B.A."
-  myStory = """ 
-  Programmer and software engineering student. Besides my studies, I am learning automation testing, web development, OOP, databases,
-  API integration, and playing around with microcontrollers. My background is in people management and recruitment.
+  current_role =  "Software Engineering Student"
+  years_in_qorkforce = "+ 5 years in Tech companies"
+  former_education = "Bachelor of B.A."
+  my_story = """ 
+  Software engineering student and co-organiser of the DjangoUserGroup Berlin. I'm excited about Python, Django projects, and anything around test automation.
+  I want to become good at breaking software to make it safer, robust, and efficient for the business and the user.
+  My background in people management has provided me with valuable experience in problem-solving and business strategy. 
 
-  ‘Not knowing when the Dawn will come, I open every Door’ by Emily Dickinson' """
+  I'm documenting parts of my developer journey on my blog.
 
-  currentlyStudying = ["Python", "Django", "C"]
-  hobbies = ["Hiking", "Camping", "Bouldering"]
+  ‘Not knowing when the Dawn will come, I open every Door’ by Emily Dickinson'
+   """
 
 if __name__ == "__main__":
-    aboutMe(),
+    about_me(),
     print("Open to, part-time work!")
 
 ```
