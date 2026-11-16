@@ -1,6 +1,6 @@
 ## Hi there - I'm Lara
 
-🧑‍🩰 Working as a Junior Software Engineer in Test <br>
+🧑‍🩰 Working as a Junior Software Development Engineer in Test <br>
 🥹 [DSF individual member](https://www.djangoproject.com/foundation/individual-members/) <br>
 ✨ Organizer of the [Django User Group Berlin](https://luma.com/djub) <br>
 💦 About to complete the [42 curriculum in Berlin](https://www.42berlin.de/the-curriculum-at-42-berlin-coding-school) <br>
