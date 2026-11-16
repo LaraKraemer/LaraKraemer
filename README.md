@@ -8,8 +8,3 @@
 📝 Documenting parts of my developer journey on [my blog](https://www.larakraemer.dev/) <br>
 👩‍🍳 Enjoy to contribute to other dev communities, cook and bake <br>
 🎙️ Ask me about CVs, people management and meetup organisation <br>
-
-
-<br>
-<p align="center">
-<a><img src="https://holopin.me/larakraemer"</a>
